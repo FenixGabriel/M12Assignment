@@ -1,0 +1,1 @@
+This repository contains my work for Assignment 12. The file included is Python_module12Assignment.py. In this assignment, I practiced business analytics by analyzing multi-store retail data, computing key metrics, and creating visualizations to support data-driven decisions.
